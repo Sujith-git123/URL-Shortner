@@ -142,7 +142,7 @@ http://localhost:5000
 
 ## 🧑‍💻 Author
 
-GitHub: [https://github.com/yourusername](https://github.com/Sujith-git-123)
+GitHub: [https://github.com/Sujith-git-123](https://github.com/Sujith-git-123)
 
 ---
 
